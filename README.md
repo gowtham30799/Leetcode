@@ -12,6 +12,7 @@ to keep track of problems solved in leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/gowtham30799/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -29,10 +30,12 @@ to keep track of problems solved in leetcode.
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/gowtham30799/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/gowtham30799/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/gowtham30799/Leetcode/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
