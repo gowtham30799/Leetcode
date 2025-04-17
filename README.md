@@ -6,6 +6,7 @@ to keep track of problems solved in leetcode.
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gowtham30799/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ to keep track of problems solved in leetcode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gowtham30799/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
