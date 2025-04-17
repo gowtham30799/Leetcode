@@ -30,4 +30,12 @@ to keep track of problems solved in leetcode.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/gowtham30799/Leetcode/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/gowtham30799/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
