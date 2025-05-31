@@ -6,12 +6,14 @@ to keep track of problems solved in leetcode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gowtham30799/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/gowtham30799/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/gowtham30799/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gowtham30799/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/gowtham30799/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 ## Math
