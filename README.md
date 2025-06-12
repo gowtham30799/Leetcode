@@ -7,6 +7,7 @@ to keep track of problems solved in leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gowtham30799/Leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/gowtham30799/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowtham30799/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gowtham30799/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/gowtham30799/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -29,6 +30,7 @@ to keep track of problems solved in leetcode.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gowtham30799/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
