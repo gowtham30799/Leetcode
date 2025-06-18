@@ -26,6 +26,7 @@ to keep track of problems solved in leetcode.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/gowtham30799/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ to keep track of problems solved in leetcode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gowtham30799/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/gowtham30799/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -65,4 +67,8 @@ to keep track of problems solved in leetcode.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gowtham30799/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/gowtham30799/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
