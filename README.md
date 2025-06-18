@@ -39,6 +39,7 @@ to keep track of problems solved in leetcode.
 | [0136-single-number](https://github.com/gowtham30799/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/gowtham30799/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/gowtham30799/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
