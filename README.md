@@ -39,6 +39,7 @@ to keep track of problems solved in leetcode.
 | [0136-single-number](https://github.com/gowtham30799/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/gowtham30799/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gowtham30799/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/gowtham30799/Leetcode/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gowtham30799/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@ to keep track of problems solved in leetcode.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowtham30799/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gowtham30799/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/gowtham30799/Leetcode/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
